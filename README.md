@@ -20,3 +20,6 @@ consumption.
 - Scikit-learn
 - Streamlit
 - OpenAI API
+  
+## Dataset
+https://github.com/rskworld/energy-consumption/blob/main/energy_consumption.csv
