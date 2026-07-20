@@ -23,3 +23,11 @@ consumption.
   
 ## Dataset
 https://github.com/rskworld/energy-consumption/blob/main/energy_consumption.csv
+
+## Requirements
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
